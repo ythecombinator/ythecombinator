@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hey, I'm Matheus! 👋
 
-<!--
-**ythecombinator/ythecombinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 Sr. Software Engineer at [Medallia](https://www.medallia.com)
 
-Here are some ideas to get you started:
+⚡ Google Developer Expert in Web Performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇧🇷 Born in Fortaleza, Brazil
+
+🇨🇿 Based in Prague, Czech Republic
+
+### What else I'm working on 👨‍💻
+
+🎙️ Speaking about web performance, JavaScript/TypeScript, React, and other interesting stuff.
+
+📚 Reviewing CFP proposals @ [GitNation Conferences](https://gitnation.org).
+
+👨‍💻 Teaching front-end development @ [TechLabs](https://techlabs.org).
+
+### Find me elsewhere 🌎
+
+🚀 [Site](https://www.albuquerque.dev)
+
+🐦 [Twitter](https://twitter.com/ythecombinator)
+
+💼 [LinkedIn](https://www.linkedin.com/in/ythecombinator)
