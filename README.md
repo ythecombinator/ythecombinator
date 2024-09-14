@@ -1,6 +1,6 @@
 ### Hey, I'm Matheus! 👋
 
-🤓 Sr. Software Engineer at [Medallia](https://www.medallia.com)
+🤓 Staff Software Engineer at [Medallia](https://www.medallia.com)
 
 ⚡ Google Developer Expert in Web Performance
 
